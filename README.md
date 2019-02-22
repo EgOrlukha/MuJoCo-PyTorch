@@ -1,6 +1,6 @@
 # pytorch-trpo
 PyTorch implementation of Vanilla Policy Gradient, Truncated Natural Policy Gradient, Trust Region Policy Optimization, Proximal Policy Optimization.
-*Analysis of workability of the system is in Report_PPO_Humanoid.pdf file.
+* Analysis of workability of the system is in Report_PPO_Humanoid.pdf file.
 
 # Train
 * **algorithm**: PG, NPG, TRPO, PPO
